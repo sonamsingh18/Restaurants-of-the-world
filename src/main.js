@@ -10,6 +10,8 @@ import 'leaflet/dist/leaflet.css';
 import Vuelidate from 'vuelidate';
 Vue.use(Vuelidate);
 
+
+// used to include all the imports.
 Vue.use(VueAxios, axios);
 
 Vue.config.productionTip = false;
